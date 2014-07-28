@@ -1,0 +1,79 @@
+.header {
+  background: #435F30;
+}
+.header h1 {
+  color: #DAFFA3;
+  font-size: 60px;
+}
+
+.about {
+  background: #333;
+  padding-top: 50px;
+  min-height: 350px;
+}
+.about h1, .about p{
+  color: #fff;
+}
+.about h1 {
+  font-size: 4em;
+}
+
+body {
+  background: #fff;
+}
+
+.panel {
+  border-radius: 2px;
+  padding: 1em;
+  background-color: #FFF;
+}
+
+/* extremefall */
+.extremefall {padding:1 1 1 1em; overflow:hidden; background: url('../img/extreme-fall-bg.png');  background-color: transparent; background-size: cover; 
+background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
+
+.caterpillar {padding:1 1 1 1em; overflow:hidden; background: url('../img/caterpillar-racer-bg.png');  background-color: transparent; background-size: cover; 
+background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
+
+.circular {padding:1 1 1 1em; overflow:hidden; background: url('../img/circular-bg.png');  background-color: transparent; background-size: cover; 
+background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
+
+.freetanso {padding:1 1 1 1em; overflow:hidden; background: url('../img/freetanso-bg.png');  background-color: transparent; background-size: cover; 
+background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
+
+.dude {padding:1 1 1 1em; overflow:hidden; background: url('../img/dude-bg.png');  background-color: transparent; background-size: cover; 
+background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
+
+.about {padding:1 1 1 1em; overflow:hidden; background: url('http://fat.gfycat.com/ImpartialImperturbableButterfly.gif');  background-color: transparent; background-size: cover; 
+background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
+
+.game {
+  min-height: 380px;
+}
+.game h1 { 
+  text-align: center; 
+  margin:1em 0 0 0; 
+  padding:0; 
+  font-size: 4em;
+}
+.dude h1 { 
+  font-size: 3.5em;
+}
+.game a, .game a:link, .game a:visited { 
+  color:#FFFFFF; 
+  text-decoration:none;
+}
+.game a:hover {
+  text-decoration:none;
+}
+.game img { 
+  padding-top: 2em; 
+  padding-bottom: 2em; 
+}
+.game .description { 
+  margin:1em auto; 
+  width:80%; 
+  padding:10px 0 10px 0; 
+  color: #FFFFFF; 
+  text-align: center;
+}
