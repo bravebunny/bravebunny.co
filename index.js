@@ -1,9 +1,20 @@
-var Hapi = require('hapi'),
-	server = new Hapi.Server('162.243.0.129', 80);
+var Hapi = require('hapi');
 
-server.route([
-	{ method: '*', 	path: '/{path*}', handler: { directory: { path: './public/', listing: false, redirectToSlash: true } } }
-]);
-server.start();
+var port = process.env.BRAVEBUNNY_PORT || 8000;
+var server = new Hapi.Server('0.0.0.0', port);
 
-console.log('Server up');
+server.route({
+  method: '*',
+  path: '/{path*}',
+  handler: {
+    directory: {
+      path: './public/',
+      listing: false,
+      redirectToSlash: true
+    }
+  }
+});
+
+server.start(function() {
+  console.log('Server started at: ' + server.info.uri);
+});
