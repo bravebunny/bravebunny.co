@@ -28,7 +28,6 @@ body {
   background-color: #FFF;
 }
 
-/* extremefall */
 .extremefall {padding:1 1 1 1em; overflow:hidden; background: url('../img/extreme-fall-bg.png');  background-color: transparent; background-size: cover; 
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
@@ -42,6 +41,12 @@ background-size: cover;-webkit-background-size: cover;-moz-background-size: cove
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
 .dude {padding:1 1 1 1em; overflow:hidden; background: url('../img/dude-bg.png');  background-color: transparent; background-size: cover; 
+background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
+
+.socialworms {padding:1 1 1 1em; overflow:hidden; background: url('../img/socialworms-bg.png');  background-color: transparent; background-size: cover; 
+background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
+
+.curvatron {padding:1 1 1 1em; overflow:hidden; background: url('../img/curvatron-bg.png');  background-color: transparent; background-size: cover; 
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
 .about {padding:1 1 1 1em; overflow:hidden; background: url('http://fat.gfycat.com/ImpartialImperturbableButterfly.gif');  background-color: transparent; background-size: cover; 
