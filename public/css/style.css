@@ -1,17 +1,24 @@
 .header {
-  background: #435F30;
+  background: #45AA43;
 }
 .header h1 {
   color: #DAFFA3;
-  font-size: 60px;
+  font-size: 40px;
+}
+.header img {
+  width: 250px;
+  height: 250px;
+}
+
+.fa {
+  font-size: inherit;
 }
 
 .about {
   background: #333;
-  padding-top: 50px;
   min-height: 350px;
 }
-.about h1, .about p{
+.about h1, .about p, .about a{
   color: #fff;
 }
 .about h1 {
@@ -28,57 +35,74 @@ body {
   background-color: #FFF;
 }
 
-.extremefall {padding:1 1 1 1em; overflow:hidden; background: url('../img/extreme-fall-bg.png');  background-color: transparent; background-size: cover; 
+.extremefall {padding:1 1 1 1em; overflow:hidden; background: url('../img/extreme-fall-bg.png');  background-color: transparent; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.caterpillar {padding:1 1 1 1em; overflow:hidden; background: url('../img/caterpillar-racer-bg.png');  background-color: transparent; background-size: cover; 
+.caterpillar {padding:1 1 1 1em; overflow:hidden; background: url('../img/caterpillar-racer-bg.png');  background-color: transparent; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.circular {padding:1 1 1 1em; overflow:hidden; background: url('../img/circular-bg.png');  background-color: transparent; background-size: cover; 
+.circular {padding:1 1 1 1em; overflow:hidden; background: url('../img/circular-bg.png');  background-color: transparent; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.freetanso {padding:1 1 1 1em; overflow:hidden; background: url('../img/freetanso-bg.png');  background-color: transparent; background-size: cover; 
+.freetanso {padding:1 1 1 1em; overflow:hidden; background: url('../img/freetanso-bg.png');  background-color: transparent; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.dude {padding:1 1 1 1em; overflow:hidden; background: url('../img/dude-bg.png');  background-color: transparent; background-size: cover; 
+.dude {padding:1 1 1 1em; overflow:hidden; background: url('../img/dude-bg.png');  background-color: transparent; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.socialworms {padding:1 1 1 1em; overflow:hidden; background: url('../img/socialworms-bg.png');  background-color: transparent; background-size: cover; 
+.socialworms {padding:1 1 1 1em; overflow:hidden; background: url('../img/socialworms-bg.png');  background-color: transparent; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.curvatron {padding:1 1 1 1em; overflow:hidden; background: url('../img/curvatron-bg.png');  background-color: transparent; background-size: cover; 
+.curvatron {padding:1 1 1 1em; overflow:hidden; background: url('../img/curvatron-bg.png');  background-color: transparent; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.about {padding:1 1 1 1em; overflow:hidden; background: url('http://fat.gfycat.com/ImpartialImperturbableButterfly.gif');  background-color: transparent; background-size: cover; 
+.about {padding:1 1 1 1em; overflow:hidden; background: url('../img/svuv.gif');  background-color: transparent; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
+.opacity {
+  background: url(../img/opacity.png) repeat;
+  padding: 1em 0;
+}
 .game {
   min-height: 380px;
 }
-.game h1 { 
-  text-align: center; 
-  margin:1em 0 0 0; 
-  padding:0; 
+.game h1 {
+  text-align: center;
+  margin:1em 0 0 0;
+  padding:0;
   font-size: 4em;
 }
-.dude h1 { 
+.dude h1 {
   font-size: 3.5em;
 }
-.game a, .game a:link, .game a:visited { 
-  color:#FFFFFF; 
+.game a, .game a:link, .game a:visited {
+  color:#FFFFFF;
   text-decoration:none;
 }
 .game a:hover {
   text-decoration:none;
 }
-.game img { 
-  padding-top: 2em; 
-  padding-bottom: 2em; 
+.game img {
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
-.game .description { 
-  margin:1em auto; 
-  width:80%; 
-  padding:10px 0 10px 0; 
-  color: #FFFFFF; 
+.game .description {
+  margin:1em auto;
+  width:80%;
+  padding:10px 0 10px 0;
+  color: #FFFFFF;
   text-align: center;
+}
+
+.social-buttons {
+  font-size: 4em;
+  margin: 0px
+}
+.social-buttons a {
+  opacity: 0.7;
+  color: white;
+  text-decoration: none;
+}
+.social-buttons a:hover {
+  opacity: 0.9;
 }
