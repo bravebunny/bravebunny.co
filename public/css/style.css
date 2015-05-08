@@ -35,28 +35,28 @@ body {
   background-color: #FFF;
 }
 
-.extremefall {padding:1 1 1 1em; overflow:hidden; background: url('../img/extreme-fall-bg.png');  background-color: transparent; background-size: cover;
+.extremefall {padding:1 1 1 1em; overflow:hidden; background: url('../img/extreme-fall-bg.png');  background-color: #5D9D98; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.caterpillar {padding:1 1 1 1em; overflow:hidden; background: url('../img/caterpillar-racer-bg.png');  background-color: transparent; background-size: cover;
+.caterpillar {padding:1 1 1 1em; overflow:hidden; background: url('../img/caterpillar-racer-bg.png');  background-color: #361130; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.circular {padding:1 1 1 1em; overflow:hidden; background: url('../img/circular-bg.png');  background-color: transparent; background-size: cover;
+.circular {padding:1 1 1 1em; overflow:hidden; background: url('../img/circular-bg.png');  background-color: #03344F; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.freetanso {padding:1 1 1 1em; overflow:hidden; background: url('../img/freetanso-bg.png');  background-color: transparent; background-size: cover;
+.freetanso {padding:1 1 1 1em; overflow:hidden; background: url('../img/freetanso-bg.png');  background-color: #191919; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.dude {padding:1 1 1 1em; overflow:hidden; background: url('../img/dude-bg.png');  background-color: transparent; background-size: cover;
+.dude {padding:1 1 1 1em; overflow:hidden; background: url('../img/dude-bg.png');  background-color: #262626; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.socialworms {padding:1 1 1 1em; overflow:hidden; background: url('../img/socialworms-bg.png');  background-color: transparent; background-size: cover;
+.socialworms {padding:1 1 1 1em; overflow:hidden; background: url('../img/socialworms-bg.png');  background-color: #9C9284; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.curvatron {padding:1 1 1 1em; overflow:hidden; background: url('../img/curvatron-bg.png');  background-color: transparent; background-size: cover;
+.curvatron {padding:1 1 1 1em; overflow:hidden; background: url('../img/curvatron-bg.png');  background-color: #473051; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
-.about {padding:1 1 1 1em; overflow:hidden; background: url('../img/svuv.gif');  background-color: transparent; background-size: cover;
+.about {padding:1 1 1 1em; overflow:hidden; background: url('../img/svuv.gif');  background-color: #23201A; background-size: cover;
 background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;background-position: center center;background-position-x: 50%;background-position-y: 50%;background-repeat: no-repeat;}
 
 .opacity {
